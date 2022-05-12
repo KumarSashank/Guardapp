@@ -109,7 +109,7 @@
         app:layout_constraintTop_toBottomOf="@+id/hey_login_n" />
 
     <TextView
-        android:id="@+id/hola"
+        android:id="@+id/num2log"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"
